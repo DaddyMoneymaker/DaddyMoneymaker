@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danilo
-- 👀 I’m interested in BITCHES
-- 🌱 I’m currently learning html,lua,css
-- 📫 How to reach me discord: moneymaker#2181
+- 👋 Hi, I’m war
+- 👀 I’m interested in python, discord bots
+- 🌱 I’m currently learning python
+- 📫 How to reach me discord: r5mz
